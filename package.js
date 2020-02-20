@@ -1,5 +1,5 @@
 Package.describe({
-  name: "shell-server",
+  name: "rshell-server",
   version: "0.4.0",
   summary: "Server-side component of the `meteor shell` command.",
   documentation: "README.md"
